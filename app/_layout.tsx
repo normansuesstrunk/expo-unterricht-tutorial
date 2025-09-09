@@ -36,6 +36,15 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="list-test"
+        options={{
+          title: 'List Test',
+          tabBarIcon: ({ color, focused }) => (
+            <Ionicons name={focused ? 'list' : 'list-outline'} color={color} size={24}/>
+          ),
+        }}
+      />
     </Tabs>
   );
 }

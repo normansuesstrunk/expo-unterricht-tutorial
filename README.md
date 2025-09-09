@@ -1,5 +1,15 @@
 # Welcome to your Expo app 👋
 
+
+Das folgende Repo repräsentiert das durchgespielte React Native Tutorial aus dem Unterricht vom 9.9.25 aufgeteilt auf einzelne Commits. 
+
+Behandelte Themen: 
+
+* Navigation: https://docs.expo.dev/tutorial/add-navigation/
+* Using List Views & States: https://reactnative.dev/docs/using-a-listview
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
